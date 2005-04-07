@@ -1,0 +1,25 @@
+{
+  "name": "fake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash8080/fake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash8080/fake/issues"
+  },
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.3",
+    "simple-git": "^2.37.0"
+  },
+  "homepage": "https://github.com/yash8080/fake#readme"
+}
