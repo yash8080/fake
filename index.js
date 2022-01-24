@@ -18,6 +18,6 @@ const makecommit = (n)=>{
         makecommit.bind(this, --n));
     });
 };
-makecommit(9);
+makecommit(6);
 
 
